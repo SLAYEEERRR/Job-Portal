@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-serif);
+}
+.box1{
+    background-image: url("Images/privacy.avif");
+    width: 100vw;
+    height: 60vh;
+}
+.box1a{
+    display: grid;
+    justify-content: center;
+    padding-top: 25vh;
+    color: white;
+    
+}
+.content{
+    font-family: var(--font-serif);
+    font-style: italic;
+
+}
+.last{
+    background-color: #89b3d0;
+}
+table{
+    border: 3px solid rgb(24, 24, 24);
+    border-style: dotted;
+    color:  white;
+    background-color:  rgb(24, 24, 24);
+    
+}

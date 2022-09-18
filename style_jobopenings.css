@@ -1,0 +1,28 @@
+.box1{
+   font-family: var(--font-serif);
+   font-size: 80px;
+   background-color: #7badd1;
+   color: black;
+   border: brown;
+   border-radius: 10px;
+   display: grid;
+   justify-content: center;
+   margin: 0;padding: 0;
+}
+.box2{
+    display: grid;
+    justify-content: center;
+    
+}
+.pic{
+    margin-top: 16px;
+}
+body{
+    background-color: pink;
+}
+table,th,td{
+    border-color: 3px solid black;
+    border-width: 10px;
+    border-style: groove;
+    size: 2000px;
+}
