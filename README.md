@@ -1,6 +1,6 @@
 # Job-Portal
 Its a "Job Portal" created using pure HTML and CSS.
-I have used "Bootstrap" framework of CSS to enhance the look of the project.
+I have used "Bootstrap" framework of CSS to enhance the look of the project.The sun which you see in the home page is actually in rotatory motion.
 Glimpse:-
 1)Home Page:-
 ![image](https://user-images.githubusercontent.com/89450383/204138808-2b5c14e5-fea3-47f9-b86d-b4e9d68c6b5b.png)
